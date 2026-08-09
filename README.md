@@ -1,2 +1,2 @@
 # Convert_PDF_to_Audio
-this project is converting PDFs to an Audio that you can hear 
+this project is converting PDFs to an Audio that you can hear using pypdf and pyttsx3 in python
